@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("djenus_csharp_api_com_cache_fila_ass_ncrona_e_li")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bb57044364627eea2a0f80fa739472101990d53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d98b64e7d1439988afc87fc175559438dd67538")]
 [assembly: System.Reflection.AssemblyProductAttribute("djenus_csharp_api_com_cache_fila_ass_ncrona_e_li")]
 [assembly: System.Reflection.AssemblyTitleAttribute("djenus_csharp_api_com_cache_fila_ass_ncrona_e_li")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
