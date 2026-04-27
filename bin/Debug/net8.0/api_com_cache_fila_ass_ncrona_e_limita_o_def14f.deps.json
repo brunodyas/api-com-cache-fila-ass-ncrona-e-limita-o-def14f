@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "api_com_cache_fila_ass_ncrona_e_limita_o_def14f/1.0.0": {
+        "runtime": {
+          "api_com_cache_fila_ass_ncrona_e_limita_o_def14f.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "api_com_cache_fila_ass_ncrona_e_limita_o_def14f/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
