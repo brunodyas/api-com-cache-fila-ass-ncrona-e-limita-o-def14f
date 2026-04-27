@@ -1,0 +1,4 @@
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-com-cache-fila-ass-ncrona-e-limita-o-def14f\obj\Debug\net8.0\djenus_csharp_api_com_cache_fila_ass_ncrona_e_li.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-com-cache-fila-ass-ncrona-e-limita-o-def14f\obj\Debug\net8.0\djenus_csharp_api_com_cache_fila_ass_ncrona_e_li.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-com-cache-fila-ass-ncrona-e-limita-o-def14f\obj\Debug\net8.0\djenus_csharp_api_com_cache_fila_ass_ncrona_e_li.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-com-cache-fila-ass-ncrona-e-limita-o-def14f\obj\Debug\net8.0\djenus_csharp_api_com_cache_fila_ass_ncrona_e_li.csproj.CoreCompileInputs.cache
