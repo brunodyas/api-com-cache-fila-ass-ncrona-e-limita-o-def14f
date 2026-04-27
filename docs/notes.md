@@ -1,3 +1,3 @@
 # Notas
 
-Registo de chaves de idempotência com TTL, deduplicação de pedidos e contratos claros para clientes da API.
+Utilitário que combina dois JSON com regras simples (deep merge superficial).
