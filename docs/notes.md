@@ -1,3 +1,3 @@
 # Notas
 
-Serviço HTTP com endpoints de negócio, camada de cache (in-memory ou interface para Redis), enfileiramento de trabalhos assíncronos e rate limiting por cliente — desafios de consistência e backpressure.
+Componente que persiste eventos de domínio e publica de forma atómica (outbox), com reintentos e idempotência no consumidor.
